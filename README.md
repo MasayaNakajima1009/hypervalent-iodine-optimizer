@@ -1,4 +1,5 @@
 # Hypervalent Iodine Optimizer
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasayaNakajima1009/hypervalent-iodine-optimizer/blob/main/HVI_Optimizer.ipynb)
 
 A Google Colab workflow for geometry optimization of hypervalent iodine compounds using a machine-learning potential.
 
